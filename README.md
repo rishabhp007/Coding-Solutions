@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/rishabhp007/Coding-Solutions/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0189-rotate-array) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rishabhp007/Coding-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
