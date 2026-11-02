@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/rishabhp007/Coding-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/rishabhp007/Coding-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
