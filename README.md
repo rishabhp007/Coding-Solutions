@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/rishabhp007/Coding-Solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/rishabhp007/Coding-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/rishabhp007/Coding-Solutions/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/rishabhp007/Coding-Solutions/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
