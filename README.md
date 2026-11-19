@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabhp007/Coding-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rishabhp007/Coding-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rishabhp007/Coding-Solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/rishabhp007/Coding-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
