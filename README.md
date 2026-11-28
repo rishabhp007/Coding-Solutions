@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rishabhp007/Coding-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rishabhp007/Coding-Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/rishabhp007/Coding-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishabhp007/Coding-Solutions/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rishabhp007/Coding-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
